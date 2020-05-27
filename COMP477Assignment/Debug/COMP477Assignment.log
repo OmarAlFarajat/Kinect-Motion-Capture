@@ -1,0 +1,55 @@
+﻿  defMesh.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.h(16,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(33,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(52,19): warning C4018: '<': signed/unsigned mismatch
+  glm.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(86,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(304,45): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(305,45): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(306,45): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(308,45): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(309,45): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(310,45): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(808,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(809,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(810,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(813,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1013,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1169,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1176,49): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1177,49): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1227,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1228,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1235,39): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1237,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1240,42): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1242,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1245,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  glMain.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glm.cpp(1246,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  glut.cpp
+  simpleMath.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(13,10): fatal error C1083: Cannot open include file: 'NuiApi.h': No such file or directory
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\simpleMath.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\simpleMath.cpp(24,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  skeleton.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\simpleMath.cpp(25,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(60,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(61,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(62,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(63,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(181,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(182,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(193,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(195,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(205,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(273,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(286,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(294,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(295,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(296,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  splitstring.cpp
+  Generating Code...
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(299,19): warning C4101: 'tr': unreferenced local variable

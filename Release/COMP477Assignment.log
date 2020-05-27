@@ -1,0 +1,28 @@
+﻿  defMesh.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(33,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(52,19): warning C4018: '<': signed/unsigned mismatch
+  glMain.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.cpp(86,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(319,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(340,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(365,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(381,24): warning C4018: '<': signed/unsigned mismatch
+  glm.cpp
+  simpleMath.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(610,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\simpleMath.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\simpleMath.cpp(24,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  skeleton.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\simpleMath.cpp(25,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(273,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(286,19): warning C4018: '<': signed/unsigned mismatch
+  splitstring.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\skeleton.cpp(299,19): warning C4101: 'tr': unreferenced local variable
+  Generating code
+  0 of 1508 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  COMP477Assignment.vcxproj -> C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\Release\COMP477Assignment.exe

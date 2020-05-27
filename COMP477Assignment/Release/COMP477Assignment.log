@@ -1,0 +1,43 @@
+﻿  glMain.cpp
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\defMesh.h(16,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(36,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(37,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(38,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(39,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(40,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(41,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(52,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(53,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(57,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(64,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\euler.h(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(539,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(546,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(586,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(606,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(606,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(606,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(606,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(615,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(615,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(615,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(639,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(669,73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(670,73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(673,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(674,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(677,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(678,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(782,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(803,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(828,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(844,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(862,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(871,30): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\COMP477Assignment\glMain.cpp(872,56): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  17 of 1516 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  COMP477Assignment.vcxproj -> C:\Users\Omar\Documents\GitHub\comp477-f19-07\a2part4\Release\COMP477Assignment.exe

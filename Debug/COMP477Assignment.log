@@ -1,0 +1,7 @@
+﻿  defMesh.cpp
+C:\Users\Omar\Documents\GitHub\comp477-assignment\COMP477Assignment\defMesh.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-assignment\COMP477Assignment\defMesh.cpp(33,19): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-assignment\COMP477Assignment\defMesh.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-assignment\COMP477Assignment\defMesh.cpp(52,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Omar\Documents\GitHub\comp477-assignment\COMP477Assignment\defMesh.cpp(86,19): warning C4018: '<': signed/unsigned mismatch
+  COMP477Assignment.vcxproj -> C:\Users\Omar\Documents\GitHub\comp477-assignment\Debug\COMP477Assignment.exe
